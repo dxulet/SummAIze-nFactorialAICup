@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EBF97800-A281-47D5-B6A2-9DF2A64C59D4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C6540D6-DDDA-4F58-8E6B-EDD044EA716D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/ArticleSummarizer-bpncrmvstfecxgetebtylkhqtuqg/SourcePackages/checkouts/swift-pocket/Sources/Pocket/Pocket+Retrieve.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "retrieve(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7C6540D6-DDDA-4F58-8E6B-EDD044EA716D - c126b51c55e51970"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Pocket.Pocket.retrieve(with: Pocket.Pocket.RetrieveParameters) async throws -&gt; Swift.Array&lt;Pocket.Item&gt;"
+                  moduleName = "ArticleSummarizer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dxulet/Library/Developer/Xcode/DerivedData/ArticleSummarizer-bpncrmvstfecxgetebtylkhqtuqg/SourcePackages/checkouts/swift-pocket/Sources/Pocket/Pocket+Retrieve.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "3576">
+               </Location>
+               <Location
+                  uuid = "7C6540D6-DDDA-4F58-8E6B-EDD044EA716D - 14cd0bdc03358861"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Pocket.Pocket.retrieve(with: Pocket.Pocket.RetrieveParameters) async throws -&gt; Swift.Array&lt;Pocket.Item&gt;"
+                  moduleName = "ArticleSummarizer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dxulet/Library/Developer/Xcode/DerivedData/ArticleSummarizer-bpncrmvstfecxgetebtylkhqtuqg/SourcePackages/checkouts/swift-pocket/Sources/Pocket/Pocket+Retrieve.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "7C6540D6-DDDA-4F58-8E6B-EDD044EA716D - 6f7c0a458c0add72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Pocket.Pocket.retrieve(with: Pocket.Pocket.RetrieveParameters) async throws -&gt; Swift.Array&lt;Pocket.Item&gt;"
+                  moduleName = "ArticleSummarizer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dxulet/Library/Developer/Xcode/DerivedData/ArticleSummarizer-bpncrmvstfecxgetebtylkhqtuqg/SourcePackages/checkouts/swift-pocket/Sources/Pocket/Pocket+Retrieve.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "7C6540D6-DDDA-4F58-8E6B-EDD044EA716D - 3baeb72a203ebf7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Pocket.Pocket.retrieve(with: Pocket.Pocket.RetrieveParameters) async throws -&gt; Swift.Array&lt;Pocket.Item&gt;"
+                  moduleName = "ArticleSummarizer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dxulet/Library/Developer/Xcode/DerivedData/ArticleSummarizer-bpncrmvstfecxgetebtylkhqtuqg/SourcePackages/checkouts/swift-pocket/Sources/Pocket/Pocket+Retrieve.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07C2A4A4-3CB7-4925-921B-05A3BC0573F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Library/Developer/Xcode/DerivedData/ArticleSummarizer-bpncrmvstfecxgetebtylkhqtuqg/SourcePackages/checkouts/swift-pocket/Sources/Pocket/Pocket+Retrieve.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "retrieve(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
